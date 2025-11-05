@@ -1,4 +1,4 @@
-# Disaster Assitance Management System (DAMS)
+# Disaster Management System (DAMS)
 
 
 Python Flask and NodeJS based web application with MySQL for Disaster Assistance Management System (DAMS). This system has 3 user types. Admin, Helpers and Helpees. Admin manages disaster events, helpees register them self to events and helpers provide resources for helpees.
@@ -33,6 +33,7 @@ To enable administrator acces in VScode for Windows run ```Set-ExecutionPolicy U
 3) Install required python libraries ```pip install -r requirements.txt```
 4) Run client server ```python app.py```
 7) Run python tests and generate coverage report ```pytest --cov=app --cov-report=html:coverage -s```
+
 
 
 
