@@ -39,5 +39,4 @@ To enable administrator acces in VScode for Windows run ```Set-ExecutionPolicy U
 4) Run client server ```python app.py```
 7) Run python tests and generate coverage report ```pytest --cov=app --cov-report=html:coverage -s```
 
-## Demo
-[![Video Instructions to Run Code](https://i.ytimg.com/vi/d5w7kfwUHgI/hqdefault.jpg)](https://www.youtube.com/watch?v=d5w7kfwUHgI)
+
